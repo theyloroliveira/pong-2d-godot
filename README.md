@@ -25,6 +25,6 @@ Como rodar:
 
 
 Requisitos mínimos:
-. Windows 7 ou superior
-. Não precisa instalar nada (jogo já vem pronto)
-. Não há necessidade de instalar o Godot
+- Windows 7 ou superior
+- Não precisa instalar nada (jogo já vem pronto)
+- Não há necessidade de instalar o Godot

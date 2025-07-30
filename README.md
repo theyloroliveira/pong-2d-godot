@@ -16,7 +16,17 @@ Controles:
 Tecnologias:
 - Godot Engine 4.4.1
 - GDScript
-  
+
+Funcionalidades implementadas:
+- Controle para dois jogadores (teclado)
+- Sistema de pontuação automática
+- Partida reinicia após cada ponto
+- Colisões com as bordas e os personagens usando nós 'Area2D' e 'CollisionShape'
+- Sistema de som com variações para quando a bola acertar o jogador ou as paredes
+- Interface com placar visível
+- Reinício manual com a tecla 'R' (placar fica zerado)
+- Fechamento rápido com a tecla 'Esc'
+- Uso do recurso timer para a cada 1.5 segundos após um gol, a bola voltar para o centro da tela
 
 Como rodar:
 1. Faça o download do arquivo .rar na pasta releases

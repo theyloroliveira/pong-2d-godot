@@ -7,10 +7,10 @@ Remake simples do clássico jogo Pong feito com a engine Godot como parte do meu
 
 
 Controles:
-W/S para subir/descer o jogador 1
-↑/↓ para subir/descer o jogador 2
-Esc para sair
-R para Reiniciar
+- W/S para subir/descer o jogador 1
+- ↑/↓ para subir/descer o jogador 2
+- Esc para sair
+- R para Reiniciar
 
 
 Tecnologias:
